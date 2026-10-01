@@ -2,13 +2,15 @@
 
 Hello! I'm Patrick Trindade 👋
 
-My name is Patrick Trindade, I am 24 years old, and I am from Rio Grande do Sul, Brazil. I am currently studying Software Engineering at UNIJUÍ, a field that I am interested in and in which I am constantly working to expand my knowledge.
-
-Throughout my education, I have been deepening my studies in technology and software development, aiming to build a solid foundation for my professional career.
-
-I am always looking for new knowledge and opportunities to improve my skills in the technology field, putting into practice what I learn throughout my degree.
+I'm a Software Engineering student at **UNIJUÍ**, based in Rio Grande do Sul, Brazil.
+I enjoy turning ideas into working software and I'm always looking for new
+challenges that help me grow as a developer.
 
 ---
+
+## 📫 Contato
+- LinkedIn: seu-link
+- E-mail: seu-email
 
 ### Linguagens e Tecnologias
 
