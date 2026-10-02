@@ -2,7 +2,7 @@
 
 Hello! I'm Patrick Trindade 👋
 
-I'm a Software Engineering student at **UNIJUÍ**, based in Rio Grande do Sul, Brazil.
+I'm a Software Engineering student at **FIAP**.
 I enjoy turning ideas into working software and I'm always looking for new
 challenges that help me grow as a developer.
 
