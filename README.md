@@ -9,8 +9,8 @@ challenges that help me grow as a developer.
 ---
 
 ## 📫 Contato
-- LinkedIn: seu-link
-- E-mail: seu-email
+- [LinkedIn](https://www.linkedin.com/in/patricktrindade/?isSelfProfile=true)
+- E-mail: contato@patricktrindade.com
 
 ### Linguagens e Tecnologias:
 
@@ -24,14 +24,6 @@ challenges that help me grow as a developer.
 />
 <img 
     align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
     alt="NodeJs"
     title="NodeJs" 
     width="30px" 
@@ -40,11 +32,11 @@ challenges that help me grow as a developer.
 />
 <img 
     align="left" 
-    alt="React"
-    title="React" 
+    alt="TypeScript"
+    title="TypeScript" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
 <img 
     align="left" 
